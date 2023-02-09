@@ -13,4 +13,5 @@
 12-file_type is a script that prints the type of file named iamafile
 13-symbolic_link creates a symbolic link to /bin/ls name __ls__
 14-copy_html is a script that copies html files...
+100-lets_move is a script that moves all files biggining with an uppercase letter to the tmp/u directory
 
