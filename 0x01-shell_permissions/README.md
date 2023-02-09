@@ -7,3 +7,4 @@
 6-multiple_permissions is a script that adds execute permission to the owner and the group owner and read permission to other users to the file hello
 7-everybody is a script that adds execution permission to the owner, the group owner and the other users to the file hello
 8-James_Bond is a script that gives the owner no permission at all, gives the group owner no permission at all, and gives other users all the permissions.
+9-John_Doe is a script thatsets the mode of the hello file to -rwxr-x-wx
