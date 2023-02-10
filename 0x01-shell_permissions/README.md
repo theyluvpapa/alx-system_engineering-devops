@@ -9,3 +9,4 @@
 8-James_Bond is a script that gives the owner no permission at all, gives the group owner no permission at all, and gives other users all the permissions.
 9-John_Doe is a script thatsets the mode of the hello file to -rwxr-x-wx
 10-mirror_permissions is a script that sets the mode of the file hello to the same as the file olleh
+11-directories_permissions is a script that adds execute permissions to all subdirectories of the current directory for the owner, group owner and all other users. Regular files will not be changed
