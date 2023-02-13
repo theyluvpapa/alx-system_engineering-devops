@@ -9,3 +9,6 @@ This script displays the contents of the /etc/passwd file
 
 #Task 3
 This script displays the content of /etc/passwd and /etc/hosts
+
+#Task 4
+This script displays the last 10 lines of /etc/passwd
