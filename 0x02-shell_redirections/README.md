@@ -21,3 +21,6 @@ This script creates a file  containing the text Best School ending by anew line
 
 #Task 8
 This script writes into the ls_cwd_content the result of the command ls -la
+
+#Task 9
+This script duplicates the last line of the file iacta
