@@ -18,3 +18,6 @@ This script displays the first 10 lines /etc/passwd
 
 #Task 7
 This script creates a file  containing the text Best School ending by anew line
+
+#Task 8
+This script writes into the ls_cwd_content the result of the command ls -la
